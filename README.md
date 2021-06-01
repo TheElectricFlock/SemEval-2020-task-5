@@ -20,3 +20,6 @@ https://youtu.be/PBKGFsLLHwk
 
 ## Tests
 These packages come with tests. just run `python  test_utils.py`
+
+## Environment
+Use the conda enviroment file to automatically build your environment
