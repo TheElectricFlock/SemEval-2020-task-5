@@ -1,0 +1,13 @@
+name: notebook-env
+
+channels:
+  - conda-forge
+  - defaults
+  
+dependencies:
+  - keras==2.4.3
+  - tensorflow==2.4.1
+  - jupyter
+  - pip:
+      - chars2vec
+  
